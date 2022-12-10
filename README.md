@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robinnnnnn
 - 👀 I’m interested in ... Metaverse, Gaming, and awesome software
-- 🌱 I’m currently learning ... Rust, C++, Web Assembly, Unreal Engine
+- 🌱 I’m currently learning ... Rust, C++, Unreal Engine
 - 💞️ I’m looking to collaborate on ... Anything metaverse / gaming related
 
 <!---
